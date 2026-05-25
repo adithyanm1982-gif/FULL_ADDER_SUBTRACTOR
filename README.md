@@ -6,7 +6,7 @@ Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-##Equipments Required:
+## Equipments Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
